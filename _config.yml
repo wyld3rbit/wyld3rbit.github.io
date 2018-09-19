@@ -13,7 +13,7 @@ linkedin_username: arkapattanayak
 markdown: kramdown
 kramdown:
   input: GFM
-highlighter: pygments
+highlighter: rouge
 
 gems:
  - octopress-date-format
