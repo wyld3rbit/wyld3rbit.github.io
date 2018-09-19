@@ -1,0 +1,18 @@
+# Site settings
+title: Reflections. An escape valve for my brain!
+email: apattanayak@users.noreply.github.com
+description: > # this means to ignore newlines until "baseurl:"
+  Reflections on programming, design and surfing the curve.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "https://apattanayak.github.io" # the base hostname & protocol for your site
+twitter_username: intrepidusRimor
+github_username:  apattanayak
+
+# Build settings
+markdown: kramdown
+kramdown:
+  input: GFM
+highlighter: pygments
+
+gems:
+ - octopress-date-format
