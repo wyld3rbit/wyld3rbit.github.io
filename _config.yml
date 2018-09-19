@@ -14,8 +14,7 @@ markdown: kramdown
 kramdown:
   input: GFM
 highlighter: rouge
+theme: jekyll-theme-hacker
 
-gems:
+plugins:
  - octopress-date-format
-
-theme: jekyll-theme-minimal
