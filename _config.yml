@@ -18,4 +18,4 @@ highlighter: rouge
 gems:
  - octopress-date-format
 
-theme: jekyll-theme-minimal
+theme: jekyll-theme-hacker
