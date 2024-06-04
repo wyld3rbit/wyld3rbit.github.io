@@ -1,12 +1,12 @@
 # Site settings
-title: Code, Algorithms, Products
-email: apattanayak@users.noreply.github.com
+title: Mastering Engineering Leadership: Innovations, Impact, and Human Connections
+email: wyld3rbit@users.noreply.github.com
 description: > # this means to ignore newlines until "baseurl:"
-  Reflections on programming, design and building real products.
+  Explore the transformative journey of mastering engineering leadership through groundbreaking innovation, impactful project management, and fostering meaningful human connections. Delve into the insights and experiences of a seasoned software engineering leader, navigating the challenges and triumphs of over 14 years in senior management roles across diverse industries.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "https://apattanayak.github.io" # the base hostname & protocol for your site
-twitter_username: intrepidusRimor
-github_username: apattanayak
+url: "https://wyld3rbit.github.io" # the base hostname & protocol for your site
+twitter_username: wyld3rbit
+github_username: wyld3rbit
 linkedin_username: arkapattanayak
 
 # Build settings
