@@ -1,8 +1,8 @@
 # Site settings
-title: Mastering Engineering Leadership - Innovations, Impact, and Human Connections
+title: Engineering Leadership - Serious Results, Silly Journeys and Human Stories!
 email: wyld3rbit@users.noreply.github.com
 description: > # this means to ignore newlines until "baseurl:"
-  Explore the transformative journey of mastering engineering leadership through groundbreaking innovation, impactful project management, and fostering meaningful human connections. Delve into the insights and experiences of a seasoned software engineering leader, navigating the challenges and triumphs of over 14 years in senior management roles across diverse industries.
+  Explore the transformative journey of mastering engineering leadership through groundbreaking innovation, impactful project management, and fostering meaningful human connections. Delve into the insights and experiences of a seasoned software engineering leader, navigating the challenges and triumphs in senior management roles across diverse industries. 
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://wyld3rbit.github.io" # the base hostname & protocol for your site
 twitter_username: wyld3rbit
