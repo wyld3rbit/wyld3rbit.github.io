@@ -6,7 +6,6 @@ title: From Flaky WiFi to Frictionless Payments - A Former PayPal Senior SWE Man
 date: 2024-03-28 00:00:00
 categories: paypal, senior software engineering manager, in-store payments, fault tolerance, proactive monitoring
 ---
-## From-Flaky-WiFi-to-Frictionless-Payments-A-Former-PayPal-Senior-SWE-Managers-Tale
 
 **The Challenge:** During my time as a Senior SWE Manager at PayPal, our in-store payments pilot encountered a significant hurdle – unreliable WiFi networks managed by client IT departments. This external dependency caused unacceptable downtime, jeopardizing the seamless user experience PayPal strives for. Classic case of "someone else's problem" impacting our product.
 
