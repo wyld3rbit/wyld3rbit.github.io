@@ -8,3 +8,4 @@ gem 'github-pages', group: :jekyll_plugins
 gem 'octopress'
 gem 'octopress-date-format'
 gem 'jekyll-compose', group: [:jekyll_plugins]
+gem 'jekyll-twitter-plugin'

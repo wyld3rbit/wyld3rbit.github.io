@@ -19,3 +19,4 @@ theme: jekyll-theme-hacker
 plugins:
   - octopress-date-format
   - jekyll-feed
+  - jekyll-gist
