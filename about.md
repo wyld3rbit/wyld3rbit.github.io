@@ -7,7 +7,7 @@ permalink: /about/
 
 I'm a passionate **product-centric engineering leader** with over 14 years of experience building and scaling high-performing teams that deliver innovative tech solutions. My focus is on crafting secure, scalable, and resilient systems that power market-leading products across diverse technical domains, including **high-volume payment platforms used by millions globally**.
 
-Throughout my career, I've consistently achieved impressive results. For instance, I led a team responsible for a cutting-edge [insert specific product type here] boasting industry-leading uptime (think 99.999%!). Beyond technical expertise, I foster a thriving team environment that prioritizes continuous improvement, knowledge sharing, and psychological safety.
+Throughout my career, I've consistently achieved impressive results. For instance, I led a team responsible for a cutting-edge payment gateway boasting industry-leading uptime (think 99.999%!). Beyond technical expertise, I foster a thriving team environment that prioritizes continuous improvement, knowledge sharing, and psychological safety.
 
 My experience spans established organizations and startups. I've built software products in various fields, including:
 
@@ -27,4 +27,4 @@ In addition to my core engineering skills, I'm well-versed in applied machine le
 -   **Cross-Functional Collaboration:** Adept at bridging the gap between engineering, product, and business stakeholders.
 -   **Strategic Vision:** Skilled at translating business needs into innovative technical solutions.
 
-**Looking to build a future-proof tech product like a next-generation [Specific Product Type] that streamlines processes and drives innovation in the [Target Industry] industry? Let's connect. <https://calendly.com/arkapattanayak>**
+**Looking to build a future-proof tech product? Let's connect. <https://calendly.com/arkapattanayak>**
