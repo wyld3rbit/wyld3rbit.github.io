@@ -17,7 +17,7 @@ Seasoned, technical and systematic engineering leader and manager, skilled in bu
 
 #### Strategic Leadership
 
-- Demonstrated strategic thinking by developing and executing multi-year roadmaps aligned with business goals.
+- Developed and executed multi-year roadmaps aligned with business goals.
 - Successfully navigated organizational changes and led teams through periods of high growth.
 - Proven ability to foster a culture of innovation and continuous improvement.
 
