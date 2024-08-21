@@ -5,9 +5,9 @@ author: Arka P
 permalink: /about/
 ---
 
-# 10x Engineering Leader | e/acc Advocate
+## 10x Engineering Leader | e/acc Advocate
 
-Scaled unicorns. Shipped moonshots. $1B-$5B impact. Accelerating the future.
+$1B-$5B impact. Accelerating the future.
 
 I build rocket ships while they're flying. My teams turn "impossible" into "shipped it" before lunch. Firm believer in Effective Accelerationism (e/acc) - pushing tech boundaries to solve humanity's biggest challenges.
 
