@@ -13,7 +13,7 @@ I build rocket ships while they're flying. My teams turn "impossible" into "ship
 
 ## What I do:
 
-- Scale eng orgs from 20 to 500+ without breaking things (too much)
+- Scale eng orgs from 20 to 50+ without breaking things (too much)
 - Turn VC dollars into hockey-stick growth charts
 - Make data scientists and product visionaries high-five
 - Champion technological progress as the path to a better future
@@ -49,7 +49,7 @@ I build rocket ships while they're flying. My teams turn "impossible" into "ship
 - Diversity as a superpower, not a checkbox
 - Embrace rapid iteration and calculated risk-taking
 
-#### Domains of experience:
+## Domains of experience:
 
 - [Senior Engineering Management](https://www.platohq.com/@arka-pattanayak-60671430)
 - [Cybersecurity Policy](https://pe.gatech.edu/degrees/cybersecurity)
@@ -57,6 +57,4 @@ I build rocket ships while they're flying. My teams turn "impossible" into "ship
 - [Bioinformatics](https://medicine.osu.edu/departments/biomedical-informatics)
 - [Autonomous Systems](https://columbusstartupweek2016.sched.com/workmailap)
 
-Always up for a whiteboard session on how to change the world with code. Let's grab a coffee and debate microservices vs. monoliths, why Rust is (or isn't) the future, or how we can accelerate technological progress responsibly.
-
-#10xEngineer #ScaleOrDie #TechRevolution #AIAllTheThings #eacc
+#10xEngineeringLeader #ScaleOrDie #TechRevolution #AIAllTheThings #eacc
