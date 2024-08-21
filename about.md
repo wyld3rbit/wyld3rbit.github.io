@@ -53,18 +53,6 @@ I build rocket ships while they're flying. My teams turn "impossible" into "ship
 - **Diversity as Strength**: Diversity as a superpower, not a checkbox
 - **Agile Leadership**: Embrace rapid iteration and calculated risk-taking
 
-### Areas of Expertise:
-
-- Senior Engineering Management
-- Cybersecurity Policy
-- Fintech
-- Bioinformatics
-- Autonomous Systems
-
-**Open to discussing executive leadership, organizational scaling, or turning complex ideas into impactful products.**
-
-_#10xEngineeringLeader #ScaleOrDie #TechRevolution #AIAllTheThings #eacc_
-
 ### Domains of experience:
 
 - [Senior Engineering Management](https://www.platohq.com/@arka-pattanayak-60671430)
