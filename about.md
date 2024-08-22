@@ -13,11 +13,9 @@ permalink: /about/
 
 I am a seasoned technologist who builds and leads high-performing engineering organizations that drive transformative change. With a track record of delivering $1B-$5B+ in value, I excel at steering companies through growth phases, turning strategic visions into operational realities, and cultivating a culture of excellence.
 
-I build rocket ships while they're flying. My teams turn "impossible" into "shipped it" before lunch. Firm believer in Effective Accelerationism (e/acc) - pushing tech boundaries to solve humanity's biggest challenges.
-
 ### Strategic Leadership Capabilities:
 
-- **Scaling**: Scale engineering organizations from 20 to 50+ without breaking things (too much)
+- **Scaling**: Scale engineering organizations from 0 to 50+ without breaking things (too much)
 - **Growth Leadership**: Turn VC dollars into hockey-stick growth charts
 - **Vision Alignment**: Make data scientists and product visionaries high-five by aligning technical execution with business goals
 - **Future-Oriented**: Champion technological progress as the path to a better future
