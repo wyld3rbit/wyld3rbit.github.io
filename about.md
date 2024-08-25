@@ -9,10 +9,6 @@ permalink: /about/
 
 Results-oriented engineering leader with a track record of guiding technical teams to solve complex challenges in fintech, healthcare, and emerging technologies. Focused on fostering innovation and sustainable growth through thoughtful leadership and strategic technology implementation.
 
-Here’s the markdown version:
-
-Here’s the markdown version:
-
 ## Key Contributions
 
 - **Architected and scaled a pioneering omnichannel payments platform**, driving a 35% increase in payment volume and a 15% uplift in departmental revenue. Demonstrated strategic leadership in aligning product development with organizational growth objectives.
