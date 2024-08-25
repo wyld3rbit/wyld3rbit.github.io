@@ -5,11 +5,11 @@ author: Arka P
 permalink: /about/
 ---
 
-# Engineering Leader: Driving Technological Solutions for Meaningful Impact
+### Engineering Leader: Driving Technological Solutions for Meaningful Impact
 
 Results-oriented engineering leader with a track record of guiding technical teams to solve complex challenges in fintech, healthcare, and emerging technologies. Focused on fostering innovation and sustainable growth through thoughtful leadership and strategic technology implementation.
 
-## Key Contributions
+### Key Contributions
 
 - **Architected and scaled a pioneering omnichannel payments platform**, driving a 35% increase in payment volume and a 15% uplift in departmental revenue. Demonstrated strategic leadership in aligning product development with organizational growth objectives.
 
@@ -23,14 +23,14 @@ Results-oriented engineering leader with a track record of guiding technical tea
 
 - **Currently driving the creation of a decentralized, AI-powered platform** focused on real-time human connectivity, showcasing a strategic vision in emerging technologies and the ability to translate innovative concepts into products aligned with future organizational direction.
 
-## Approach and Impact
+### Approach and Impact
 
 - Strategic Vision: Align technology roadmaps with long-term business objectives, resulting in 15% departmental revenue increase (EBITDA) and 16% reduction in faulty fees.
 - Team Development: Cultivate high-performance cultures, improving team retention by 200% and individual productivity by 25% through focused mentoring and leadership programs.
 - Innovation Management: Implement Agile and Lean methodologies, increasing sprint velocity by 30% and reducing time-to-market for new features by 20%.
 - Cross-functional Collaboration: Successfully navigate complex organizational structures to deliver results, as demonstrated by 500% growth in key performance indicators within three months at a regulatory-tech startup.
 
-## Technical Expertise
+### Technical Expertise
 
 - Cloud-Native Architectures (NIST Cybersecurity Framework, ISO 27001)
 - DevOps and CI/CD for Fintech Applications (ITIL 4, DevSecOps, DORA)
@@ -42,11 +42,11 @@ Results-oriented engineering leader with a track record of guiding technical tea
 - Regulatory Compliance Systems (Dodd-Frank, Basel III, MiFID II, AML/KYC, FATCA)
 - Bioinformatics and Healthcare Technology (HIPAA, HITECH, FDA regulations, EU MDR, ISO 13485)
 
-## Leadership Philosophy
+### Leadership Philosophy
 
 Committed to creating psychologically safe environments that empower teams to tackle challenging problems. Focus on translating complex technical concepts into tangible business value, ensuring technology serves as a catalyst for organizational growth and societal benefit.
 
-## Professional Experience
+### Professional Experience
 
 - Founder, Emerging Technology (Decentralized Social Platforms)
 - Group Software Engineering Manager, Global Fintech (Enterprise Payment Systems)
@@ -56,13 +56,13 @@ Committed to creating psychologically safe environments that empower teams to ta
 - Senior Software Engineer, Healthcare and Research (Bioinformatics)
 - Software Engineer, Healthcare and Research (Medical Informatics)
 
-## Continuous Learning
+### Continuous Learning
 
 - MS in Cybersecurity, Georgia Institute of Technology (In progress, expected 2024)
 - BS in Computer Engineering, Wright State University
 - Ongoing professional development in leadership and emerging technologies
 
-## Community Engagement
+### Community Engagement
 
 - Speaker at industry conferences on applied machine learning in product development
 - Technical advisor for STEAM academia to industry accelerator program
