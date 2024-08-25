@@ -14,7 +14,7 @@ Visionary tech leader driving growth and innovation in fintech, healthcare, and 
 - Founded startup: Decentralized real-time human connectivity platform
 - Led $B+ enterprise payments platform: 35% volume growth, 15% revenue increase
 - Improved team metrics: 200% retention, 25% productivity boost
-- Spearheaded cloud migration: Enhanced scalability, reduced costs
+- Spearheaded strategic migrations to cloud native infrastructure: Enhanced scalability, reduced costs
 - Commercialized bioinformatics platforms for Human Genome Project
 
 ## Core Competencies
