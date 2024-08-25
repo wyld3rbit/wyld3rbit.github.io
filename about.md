@@ -78,6 +78,8 @@ Dedicated to leveraging technology to address meaningful challenges, with a focu
 - [Bioinformatics](https://medicine.osu.edu/departments/biomedical-informatics)
 - [Autonomous Systems](https://columbusstartupweek2016.sched.com/workmailap)
 
-#10xEngineeringLeader #ScaleOrDie #TechRevolution #AIAllTheThings #eacc
+#10xEngineeringLeader #AIAllTheThings #eacc
 
-\*\* This page was summarized by open-source LLMs using manually authored documents describing my professional track record in order to obfuscate non-public information.
+<span style="font-size:0.5em;">
+    * This page was summarized by open-source LLMs using manually authored content.
+</span>
