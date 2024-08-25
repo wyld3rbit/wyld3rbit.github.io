@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: About Arka
 author: Arka P
 permalink: /about/
 ---
