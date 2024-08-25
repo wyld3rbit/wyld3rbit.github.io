@@ -5,15 +5,17 @@ author: Arka P
 permalink: /about/
 ---
 
-# Strategic Technology Leader and Entrepreneur: Pioneering Digital Transformation at Global Scale
+## Strategic Technology Leader and Entrepreneur: Pioneering Digital Transformation at Global Scale
 
-Innovative leader, entrepreneur, and recognized industry expert with a proven track record of architecting transformative technology solutions and founding cutting-edge ventures. Demonstrated ability to take complex ideas from conception to market-ready products, driving significant business growth across fintech, healthcare, and emerging technology sectors.
+Innovative leader, entrepreneur, and recognized expert with a proven track record of architecting transformative technology solutions and founding cutting-edge ventures. Demonstrated ability to take complex ideas from conception to market-ready products, driving significant business growth across fintech, healthcare, and emerging technology sectors.
 
 ## Key Achievements
 
 - Founded and currently leading an unannounced startup, developing a decentralized, real-time web-based platform to foster serendipitous real-world human connections anchored around the concept of Ikigai.
 - Spearheaded the development and launch of a groundbreaking, greenfield payments product and platform from initial concept to market release at PayPal. Scaled the solution to process multi-billion dollar transaction volumes, revolutionizing enterprise-level payment systems on a global scale.
 - Recognized thought leader, invited to speak at conferences and startup events on applied machine learning-driven product development.
+- Contributed to early work in the Human Genome Project, advancing scientific understanding and technological capabilities in genomics.
+- Instrumental in generating intellectual property that led to the creation of multiple successful spin-off companies in the biomedical and technology sectors.
 
 ## Strategic Impact
 
@@ -21,6 +23,7 @@ Innovative leader, entrepreneur, and recognized industry expert with a proven tr
 - Implemented innovative engineering strategies, reducing faulty fees by 16% and non-payment risk by 5%, significantly enhancing bottom-line performance.
 - Cultivated high-performance cultures, improving team retention by 200% and individual productivity by 25% through pioneering leadership programs.
 - Catalyzed 500% growth in key performance indicators within three months at a regulatory-tech startup, leveraging strategic OKR implementation and efficient resource allocation.
+- Served as a technical advisor for a STEAM academia to industry accelerator, bridging the gap between academic research and commercial applications.
 
 ## Core Competencies
 
@@ -35,10 +38,11 @@ Innovative leader, entrepreneur, and recognized industry expert with a proven tr
 ## Leadership Highlights
 
 - Established thought leader, invited to speak at industry conferences and startup events on applied machine learning and innovative product development.
-- Founded and currently leading an innovative startup, demonstrating ability to identify market opportunities and execute on visionary ideas.
+- Founded and currently leading an innovative startup, tapping into the rich talent pool and entrepreneurial spirit of the Pacific Northwest to execute on visionary ideas.
 - Founded and directed the PayPal Engineering Manager Special Interest Group, driving company-wide advancements in engineering leadership.
 - Recognized for cultivating psychologically safe, high-performance environments, earning fast-track nominations for senior leadership programs.
 - Demonstrated success in navigating complex, matrix organizations and aligning cross-functional teams towards ambitious strategic goals.
+- Volunteered on various young professional boards, contributing to community development and professional networking initiatives.
 
 ## Areas of Expertise
 
@@ -50,23 +54,25 @@ Innovative leader, entrepreneur, and recognized industry expert with a proven tr
 - Bioinformatics and Healthcare Technology
 - Regulatory Technology and Compliance Systems
 - Agile and Lean Methodologies at Scale
+- Genomics and Biotechnology Innovation
 
 ## Professional Experience
 
-- Founder, Unannounced Startup (Aug 2023 - Present)
-- Group Software Engineering Manager, Payments, PayPal (2022-2023)
-- Software Engineering Manager, Backend & Mobile, PayPal (2020-2022)
-- Software and R&D Engineering Manager, Ascent RegTech (2020)
-- Tech Lead Manager, Full-stack, CarrierDirect (2019-2020)
-- Senior Software Engineer (Bioinformatics Lead), The Ohio State University Wexner Medical Center (2015-2018)
+- Founder, Unannounced Startup
+- Group Software Engineering Manager, Payments, PayPal
+- Software Engineering Manager, Backend & Mobile, PayPal
+- Software and R&D Engineering Manager, Ascent RegTech
+- Tech Lead Manager, Full-stack, CarrierDirect
+- Senior Software Engineer (Bioinformatics Lead), The Ohio State University Wexner Medical Center
+- Software Engineer, The Ohio State University Wexner Medical Center
 
 ## Education and Continuous Development
 
-- MS in Cybersecurity, Georgia Institute of Technology (In progress, expected 12/2024)
+- MS in Cybersecurity, Georgia Institute of Technology (In progress, expected 2024)
 - BS in Computer Engineering, Wright State University
 - Advanced Studies: Leadership at PayPal, Cornell University
 
-Committed to driving transformative change through strategic technology leadership and entrepreneurial innovation. Consistently translating complex technical concepts into tangible business value, positioning organizations and ventures at the forefront of digital innovation in the global marketplace.
+Committed to driving transformative change through strategic technology leadership and entrepreneurial innovation. Consistently translating complex technical concepts into tangible business value, positioning organizations and ventures at the forefront of digital innovation in the global marketplace. Proven track record of contributing to groundbreaking scientific initiatives and fostering the commercialization of cutting-edge research.
 
 ### More About Me:
 
