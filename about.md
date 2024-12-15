@@ -116,7 +116,7 @@ Visionary tech leader driving growth and innovation in fintech, healthcare, and 
 
 ## Continuous Growth
 
-- MS Cybersecurity, Georgia Tech (in progress)
+- MS Cybersecurity, Georgia Tech
 - BS Computer Engineering, Wright State
 - Industry Speaker & STEAM Advisor
 
