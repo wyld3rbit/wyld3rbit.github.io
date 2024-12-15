@@ -7,8 +7,6 @@ permalink: /about/
 
 # Engineering Leader: Innovating for Impact
 
-I've spent most of my career in technical leadership roles, focusing on scaling engineering teams, transforming complex systems, and driving growth through innovation. My journey has been anything but linear, but each step has taught me the importance of being real, staying humble, and keeping a focus on people and results. I know the only way to build great products is by building great teams first.
-
 ## Impact Highlights
 
 <style>
@@ -90,38 +88,26 @@ I've spent most of my career in technical leadership roles, focusing on scaling 
 - **Cross-Functional Leadership:** Engineering isn't a silo. I've always led cross-functional teams and have worked with product, design, and marketing to deliver end-to-end solutions.
 - **Innovative Problem-Solving:** I thrive on challenges that push me outside my comfort zone and force me to think outside the box. I’m not afraid to fail, as long as I learn from it.
 
-## Technical Mastery
+## Track Record
 
-- **Cloud-Native Architectures:** Deep experience with NIST, ISO 27001, and leading cloud platforms
-- **DevOps & CI/CD:** I’ve set up everything from basic pipelines to full-scale DevOps transformations
-- **Secure System Design:** Focused on PCI DSS, SOC 2, GDPR, and other critical security protocols
-- **Data Engineering & Analytics:** I’ve built and scaled systems that work with Big Data and AI, improving data flow, reliability, and accessibility
-- **Blockchain & Distributed Systems:** Hands-on with DLT, eIDAS, and building resilient, decentralized platforms
-- **Regulatory Compliance:** Knowledgeable in industry standards like Dodd-Frank, Basel III, and MiFID II
-
-## Career Progression
-
-- **Founder, Emerging Tech:** Started my own venture to bring innovative solutions to life
+- **Founder, Emerging Tech:** Started my own venture to help solve the ["loneliness epidemic"](https://www.hhs.gov/sites/default/files/surgeon-general-social-connection-advisory.pdf)
 - **Group Engineering Manager, Global Fintech:** Led engineering teams at scale in the fintech space
 - **Software & R&D Manager, RegTech:** Specialized in the intersection of tech and regulatory challenges
 - **Tech Lead, Logistics & Supply Chain:** Managed cross-functional teams to optimize supply chain systems
 - **Senior Engineer, Healthcare & Research:** Built systems that impacted healthcare delivery and research outcomes
 
-## Continuous Growth
+## Academic Training
 
-- **MS Cybersecurity, Georgia Institute of Technology**
-- **BS Computer Engineering, Wright State University**
-- **Industry Speaker & STEAM Advisor**
+- MS Cybersecurity, Georgia Institute of Technology
+- BS Computer Engineering, Wright State University
 
 ## Philosophy
 
 I’ve learned that being a leader isn’t about having all the answers—it’s about creating an environment where your team can succeed and feel trusted to take on the tough problems. I believe in building teams that trust each other, focus on real impact, and are committed to making a difference. I approach my work with a deep sense of responsibility: if we're not solving real problems, we’re wasting everyone’s time. It’s that simple.
 
-#10xEngineeringLeader #AIAllTheThings #eacc
-
 ### More About Me:
 
-- [Senior Engineering Management](https://www.platohq.com/@arka-pattanayak-60671430)
+- [Engineering Leadership](https://www.platohq.com/@arka-pattanayak-60671430)
 - [Cybersecurity Policy](https://pe.gatech.edu/degrees/cybersecurity)
 - [Fintech](https://www.braintreepayments.com/)
 - [Bioinformatics](https://medicine.osu.edu/departments/biomedical-informatics)
@@ -130,5 +116,5 @@ I’ve learned that being a leader isn’t about having all the answers—it’s
 #10xEngineeringLeader #AIAllTheThings #eacc
 
 <span style="font-size:0.5em;">
-    * This page was summarized by open-source LLMs using manually authored content.
+    * This page was summarized by open-source LLMs using manually authored original content.
 </span>
