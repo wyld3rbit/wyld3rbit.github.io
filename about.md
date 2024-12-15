@@ -5,8 +5,6 @@ author: Arka P
 permalink: /about/
 ---
 
-# Engineering Leader: Innovating for Impact
-
 ## Impact Highlights
 
 <style>
