@@ -78,6 +78,10 @@ permalink: /about/
    </div>
 </div>
 
+## Philosophy
+
+I’ve learned that being a leader isn’t about having all the answers—it’s about creating an environment where your team can succeed and feel trusted to take on the tough problems. I believe in building teams that trust each other, focus on real impact, and are committed to making a difference. I approach my work with a deep sense of responsibility: if we're not solving real problems, we’re wasting everyone’s time. It’s that simple.
+
 ## Core Competencies
 
 - **Strategic Vision & Execution:** I set the long-term course, but I’m also hands-on. I know how to lead and inspire teams to meet ambitious goals.
@@ -98,10 +102,6 @@ permalink: /about/
 
 - MS Cybersecurity, Georgia Institute of Technology
 - BS Computer Engineering, Wright State University
-
-## Philosophy
-
-I’ve learned that being a leader isn’t about having all the answers—it’s about creating an environment where your team can succeed and feel trusted to take on the tough problems. I believe in building teams that trust each other, focus on real impact, and are committed to making a difference. I approach my work with a deep sense of responsibility: if we're not solving real problems, we’re wasting everyone’s time. It’s that simple.
 
 ### More About Me:
 
