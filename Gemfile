@@ -8,3 +8,7 @@ gem 'github-pages', group: :jekyll_plugins
 gem 'octopress'
 gem 'octopress-date-format'
 gem 'jekyll-compose', group: [:jekyll_plugins]
+
+gem "webrick", "~> 1.9"
+
+gem "faraday-retry", "~> 2.2"

@@ -14,9 +14,14 @@ markdown: kramdown
 kramdown:
   input: GFM
 highlighter: rouge
-theme: jekyll-theme-hacker
+# theme: jekyll-theme-hacker
+remote_theme: jekyll/minima
 
 plugins:
   - octopress-date-format
   - jekyll-feed
   - jekyll-gist
+  - jekyll-remote-theme
+
+minima:
+  skin: auto
