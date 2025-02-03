@@ -105,7 +105,7 @@ I’ve learned that being a leader isn’t about having all the answers—it’s
 
 ### More About Me:
 
-- [Engineering Leadership](https://www.platohq.com/@arka-pattanayak-60671430)
+- [Engineering Leadership](https://github.com/wyld3rbit)
 - [Cybersecurity Policy](https://pe.gatech.edu/degrees/cybersecurity)
 - [Fintech](https://www.braintreepayments.com/)
 - [Bioinformatics](https://medicine.osu.edu/departments/biomedical-informatics)
