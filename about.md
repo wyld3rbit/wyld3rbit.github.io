@@ -106,7 +106,7 @@ I’ve learned that being a leader isn’t about having all the answers—it’s
 ### More About Me:
 
 - [Engineering Leadership](https://github.com/wyld3rbit)
-- [Cybersecurity Policy](https://pe.gatech.edu/degrees/cybersecurity)
+- [Cybersecurity](https://scp.cc.gatech.edu/)
 - [Fintech](https://www.braintreepayments.com/)
 - [Bioinformatics](https://medicine.osu.edu/departments/biomedical-informatics)
 - [Autonomous Systems](https://columbusstartupweek2016.sched.com/workmailap)
